@@ -37,9 +37,9 @@ import (
 )
 
 const (
-	name 							= "coolGroup"
-	engineVersionToTest 			= "5.0.2"
-	alternateEngineVersionToTest 	= "6.x"
+	name = "coolGroup"
+	engineVersionToTest = "5.0.2"
+	alternateEngineVersionToTest = "6.x"
 )
 
 var (
